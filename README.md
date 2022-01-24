@@ -1,4 +1,4 @@
-# ModNameGoesHere
+# LocalVideoPlayerVolume
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that does x.
 
