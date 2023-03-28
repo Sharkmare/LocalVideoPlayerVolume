@@ -36,13 +36,13 @@
       <HintPath>..\packages\Lib.Harmony.2.1.1\lib\net45\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="BaseX">
-      <HintPath>N:\SteamLibrary\steamapps\common\NeosVR\Neos_Data\Managed\BaseX.dll</HintPath>
+      <HintPath>F:\Neos\app\Neos_Data\Managed\BaseX.dll</HintPath>
     </Reference>
     <Reference Include="FrooxEngine">
-      <HintPath>N:\SteamLibrary\steamapps\common\NeosVR\Neos_Data\Managed\FrooxEngine.dll</HintPath>
+      <HintPath>F:\Neos\app\Neos_Data\Managed\FrooxEngine.dll</HintPath>
     </Reference>
     <Reference Include="NeosModLoader">
-      <HintPath>N:\SteamLibrary\steamapps\common\NeosVR\Libraries\NeosModLoader.dll</HintPath>
+      <HintPath>F:\Neos\app\Libraries\NeosModLoader.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
